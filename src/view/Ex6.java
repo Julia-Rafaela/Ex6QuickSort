@@ -13,7 +13,7 @@ public class Ex6 {
 		
 		for(int valor: vetor) {
 			System.out.print(valor);
-			System.out.println(" ");
+			System.out.print(" ");
 		}
 		
 		
